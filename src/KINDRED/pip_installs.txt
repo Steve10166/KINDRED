@@ -1,0 +1,4 @@
+pip3 install PyObjC
+pip install requests
+pip install ffmpeg
+pup install pydub
